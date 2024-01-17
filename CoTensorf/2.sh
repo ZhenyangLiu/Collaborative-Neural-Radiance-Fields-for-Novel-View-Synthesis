@@ -1,0 +1,17 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/orchids_3.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/room_3.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/trex_3.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/fern_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/flower_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/fortress_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/horns_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/leaves_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/orchids_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/room_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/trex_4.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/fortress_1.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/horns_1.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/leaves_1.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/orchids_1.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/room_1.txt
+CUDA_VISIBLE_DEVICES=0 python train.py --config configs/trex_1.txt
